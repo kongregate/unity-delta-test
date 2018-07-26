@@ -5,7 +5,7 @@ buildscript {
 	}
 
 	dependencies {
-		classpath 'com.android.tools.build:gradle:3.1.3'
+		classpath 'com.android.tools.build:gradle:2.1.0'
 	}
 }
 
@@ -25,16 +25,19 @@ dependencies {
 
 android {
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
     }
-    
+
 	compileSdkVersion **APIVERSION**
 	buildToolsVersion '**BUILDTOOLS**'
 
 	defaultConfig {
 		targetSdkVersion **TARGETSDKVERSION**
 		applicationId '**APPLICATIONID**'
+		jackOptions {
+      enabled true
+    }
 	}
 
 	lintOptions {
