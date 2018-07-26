@@ -1,0 +1,415 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:2:1-44:12
+MERGED from [:animated-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/870ab280f190147e1e4a1b420fea709b/AndroidManifest.xml:2:1-9:12
+MERGED from [:appcompat-v7-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/160c5214d17e7b82d7ffb9096c447875/AndroidManifest.xml:17:1-27:12
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:18:1-47:12
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:16:1-33:12
+MERGED from [:play-services-base-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/27e6a5fb3008667ad28cdaea41783d85/AndroidManifest.xml:16:1-19:12
+MERGED from [:play-services-basement-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/dc380c90736542aa7e14b8fc6656b549/AndroidManifest.xml:16:1-26:12
+MERGED from [:play-services-drive-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/3715bf57770142db501160c9f48f8e04/AndroidManifest.xml:16:1-20:12
+MERGED from [:play-services-games-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/4572bcc2ecab437fc79660b206149869/AndroidManifest.xml:16:1-20:12
+MERGED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:16:1-25:12
+MERGED from [:play-services-nearby-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/656a33daba1261e9feff457accabf1fb/AndroidManifest.xml:16:1-21:12
+MERGED from [:play-services-plus-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/cac865bee10a5579eec5ad1e7dfaaff8/AndroidManifest.xml:16:1-20:12
+MERGED from [:support-v4-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/9e35df660f853c2875b01dd5876912c0/AndroidManifest.xml:17:1-24:12
+MERGED from [:support-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/15657b4ed3434f023d7b7a61ffd7fd49/AndroidManifest.xml:2:1-9:12
+MERGED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:1-39:12
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:1-50:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:117-165
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:166-193
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:194-217
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:2:218-248
+uses-sdk
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:3:3-72
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:3:3-72
+MERGED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:6:5-9:172
+MERGED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:6:5-9:172
+MERGED from [:animated-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/870ab280f190147e1e4a1b420fea709b/AndroidManifest.xml:5:5-44
+MERGED from [:animated-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/870ab280f190147e1e4a1b420fea709b/AndroidManifest.xml:5:5-44
+MERGED from [:appcompat-v7-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/160c5214d17e7b82d7ffb9096c447875/AndroidManifest.xml:21:5-23:78
+MERGED from [:appcompat-v7-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/160c5214d17e7b82d7ffb9096c447875/AndroidManifest.xml:21:5-23:78
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:23:5-25:41
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:23:5-25:41
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:23:5-42
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:23:5-42
+MERGED from [:play-services-base-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/27e6a5fb3008667ad28cdaea41783d85/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-base-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/27e6a5fb3008667ad28cdaea41783d85/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-basement-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/dc380c90736542aa7e14b8fc6656b549/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-basement-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/dc380c90736542aa7e14b8fc6656b549/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-drive-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/3715bf57770142db501160c9f48f8e04/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-drive-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/3715bf57770142db501160c9f48f8e04/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-games-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/4572bcc2ecab437fc79660b206149869/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-games-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/4572bcc2ecab437fc79660b206149869/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-nearby-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/656a33daba1261e9feff457accabf1fb/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-nearby-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/656a33daba1261e9feff457accabf1fb/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-plus-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/cac865bee10a5579eec5ad1e7dfaaff8/AndroidManifest.xml:18:5-42
+MERGED from [:play-services-plus-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/cac865bee10a5579eec5ad1e7dfaaff8/AndroidManifest.xml:18:5-42
+MERGED from [:support-v4-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/9e35df660f853c2875b01dd5876912c0/AndroidManifest.xml:20:5-43
+MERGED from [:support-v4-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/9e35df660f853c2875b01dd5876912c0/AndroidManifest.xml:20:5-43
+MERGED from [:support-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/15657b4ed3434f023d7b7a61ffd7fd49/AndroidManifest.xml:5:5-43
+MERGED from [:support-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/15657b4ed3434f023d7b7a61ffd7fd49/AndroidManifest.xml:5:5-43
+MERGED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:41
+MERGED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:41
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-22:40
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-22:40
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:3:3-72
+	tools:overrideLibrary
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:9:9-169
+	android:targetSdkVersion
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:3:40-69
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:3:13-39
+supports-screens
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:4:135-160
+permission#com.kongregate.permission.ReadSharedData2
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:5:3-110
+	android:protectionLevel
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:5:72-107
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:5:15-71
+uses-permission#com.kongregate.permission.ReadSharedData2
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:6:20-76
+application
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:7:3-20:17
+MERGED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:14:5-42:19
+MERGED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:14:5-42:19
+MERGED from [:animated-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/870ab280f190147e1e4a1b420fea709b/AndroidManifest.xml:7:5-20
+MERGED from [:animated-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/870ab280f190147e1e4a1b420fea709b/AndroidManifest.xml:7:5-20
+MERGED from [:appcompat-v7-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/160c5214d17e7b82d7ffb9096c447875/AndroidManifest.xml:25:5-20
+MERGED from [:appcompat-v7-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/160c5214d17e7b82d7ffb9096c447875/AndroidManifest.xml:25:5-20
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:33:5-45:19
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:33:5-45:19
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:24:5-32:19
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:24:5-32:19
+MERGED from [:play-services-basement-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/dc380c90736542aa7e14b8fc6656b549/AndroidManifest.xml:20:5-24:19
+MERGED from [:play-services-basement-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/dc380c90736542aa7e14b8fc6656b549/AndroidManifest.xml:20:5-24:19
+MERGED from [:play-services-drive-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/3715bf57770142db501160c9f48f8e04/AndroidManifest.xml:19:5-20
+MERGED from [:play-services-drive-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.4.0.aar/3715bf57770142db501160c9f48f8e04/AndroidManifest.xml:19:5-20
+MERGED from [:play-services-games-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/4572bcc2ecab437fc79660b206149869/AndroidManifest.xml:19:5-20
+MERGED from [:play-services-games-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-games-8.4.0.aar/4572bcc2ecab437fc79660b206149869/AndroidManifest.xml:19:5-20
+MERGED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:24:5-20
+MERGED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:24:5-20
+MERGED from [:play-services-nearby-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/656a33daba1261e9feff457accabf1fb/AndroidManifest.xml:20:5-20
+MERGED from [:play-services-nearby-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/656a33daba1261e9feff457accabf1fb/AndroidManifest.xml:20:5-20
+MERGED from [:play-services-plus-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/cac865bee10a5579eec5ad1e7dfaaff8/AndroidManifest.xml:19:5-20
+MERGED from [:play-services-plus-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/cac865bee10a5579eec5ad1e7dfaaff8/AndroidManifest.xml:19:5-20
+MERGED from [:support-v4-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/9e35df660f853c2875b01dd5876912c0/AndroidManifest.xml:22:5-20
+MERGED from [:support-v4-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/9e35df660f853c2875b01dd5876912c0/AndroidManifest.xml:22:5-20
+MERGED from [:support-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/15657b4ed3434f023d7b7a61ffd7fd49/AndroidManifest.xml:7:5-20
+MERGED from [:support-vector-drawable-23.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/15657b4ed3434f023d7b7a61ffd7fd49/AndroidManifest.xml:7:5-20
+MERGED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-37:19
+MERGED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-37:19
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-48:19
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-48:19
+	android:label
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:7:92-124
+	android:icon
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:7:58-91
+	android:banner
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:7:147-184
+	android:theme
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:7:16-57
+	android:isGame
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:7:125-146
+activity#com.kongregate.android.games.angrybots.UnityPlayerActivity
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:8:5-15:16
+	android:screenOrientation
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:8:48-92
+	android:label
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:8:15-47
+	android:launchMode
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:8:93-124
+	android:configChanges
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:8:125-306
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:8:307-380
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:9:7-13:23
+action#android.intent.action.MAIN
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:10:9-61
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:10:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:11:9-69
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:11:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:12:9-78
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:12:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:14:7-82
+	android:value
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:14:59-79
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:14:18-58
+provider#com.kongregate.android.api.providers.angrybotsSharedSecretProvider
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:16:5-307
+	android:readPermission
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:16:214-280
+	android:authorities
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:16:97-185
+	android:multiprocess
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:16:186-213
+	android:exported
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:16:281-304
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:16:15-96
+activity#com.prime31.GoogleIABProxyActivity
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:18:5-19:16
+	android:configChanges
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:18:65-100
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:18:15-64
+uses-feature#0x00020000
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:21:3-52
+	android:glEsVersion
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:21:17-49
+uses-feature#android.hardware.vulkan
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:22:3-83
+	android:required
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:22:56-80
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:22:17-55
+uses-permission#android.permission.INTERNET
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:23:3-65
+MERGED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:11:5-67
+MERGED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:11:5-67
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:28:5-67
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:28:5-67
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:20:5-66
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:20:5-66
+MERGED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:22:5-67
+MERGED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:22:5-67
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-67
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:23:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:24:3-106
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:29:5-31:38
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:29:5-31:38
+	android:maxSdkVersion
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:24:77-103
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:24:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:25:3-105
+	android:maxSdkVersion
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:25:76-102
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:25:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:26:3-88
+	android:required
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:26:61-85
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:26:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:27:3-99
+	android:required
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:27:72-96
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:27:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:28:3-108
+	android:required
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:28:81-105
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/src/main/AndroidManifest.xml:28:17-80
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:12:5-79
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:27:5-79
+MERGED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:27:5-79
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:21:5-78
+MERGED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:21:5-78
+MERGED from [:play-services-nearby-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/656a33daba1261e9feff457accabf1fb/AndroidManifest.xml:19:5-79
+MERGED from [:play-services-nearby-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.4.0.aar/656a33daba1261e9feff457accabf1fb/AndroidManifest.xml:19:5-79
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:5-79
+MERGED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:12:22-76
+activity#com.kongregate.android.api.activities.KongregatePanelActivity
+ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:15:9-23:20
+	android:screenOrientation
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:21:13-47
+	android:label
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:19:13-39
+	android:launchMode
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:20:13-43
+	android:hardwareAccelerated
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:17:13-179
+	android:theme
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:22:13-57
+	android:name
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:16:13-89
+receiver#com.kongregate.android.api.receivers.InstallReceiver
+ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:25:9-38:20
+	android:exported
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:26:13-80
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:28:13-30:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:29:17-79
+	android:name
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:29:25-76
+meta-data#foreward.adjust
+ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:32:13-34:73
+	android:value
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:34:17-70
+	android:name
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:33:17-47
+meta-data#foreward.swrve
+ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:35:13-37:78
+	android:value
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:37:17-75
+	android:name
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:36:17-46
+receiver#com.kongregate.android.api.swrve.KongSwrvePushEngageReceiver
+ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:39:9-41:39
+	android:exported
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from [:KongregateSDK:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/AndroidManifest.xml:40:13-88
+activity#com.deltadna.android.sdk.ImageMessageActivity
+ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:34:9-44:20
+	android:windowIsTranslucent
+		ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:38:13-47
+	android:windowBackground
+		ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:37:13-66
+	android:theme
+		ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:36:13-72
+	android:name
+		ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:35:13-73
+intent-filter#action:name:android.intent.action.ACTION_DEFAULT+category:name:android.intent.category.DEFAULT
+ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.ACTION_DEFAULT
+ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:40:25-76
+category#android.intent.category.DEFAULT
+ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [:deltadna-sdk:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/deltadna-sdk.aar/fec0774abb7561d6e43654746a2cc93f/AndroidManifest.xml:42:27-73
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [:play-services-ads-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/ac4c8b8077ca84af4e379d40fdab82bd/AndroidManifest.xml:30:19-91
+meta-data#com.google.android.gms.version
+ADDED from [:play-services-basement-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/dc380c90736542aa7e14b8fc6656b549/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [:play-services-basement-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/dc380c90736542aa7e14b8fc6656b549/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [:play-services-basement-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/dc380c90736542aa7e14b8fc6656b549/AndroidManifest.xml:22:13-58
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [:play-services-gcm-8.4.0:] /Users/minlieu/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.4.0.aar/09948e3d8c95aeef6f048c77f491ffb6/AndroidManifest.xml:21:22-79
+meta-data#com.google.android.gms.nearby.connection.SERVICE_ID
+ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:9-20:32
+	android:value
+		ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:13-29
+	android:name
+		ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-79
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-25:46
+	android:value
+		ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-43
+	android:name
+		ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-63
+meta-data#com.google.android.gms.games.unityVersion
+ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:9-28:40
+	android:value
+		ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:13-69
+activity#com.google.games.bridge.NativeBridgeActivity
+ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:9-36:86
+	android:theme
+		ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-83
+	android:name
+		ADDED from [:MainLibProj] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:13-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:9-34:40
+	android:authorities
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:13-100
+	android:exported
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:13-92
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-42:20
+	android:enabled
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-35
+	android:name
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-85
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-41:29
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:17-84
+	android:name
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:25-81
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:play-services-measurement-8.4.0] /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/build/intermediates/manifests/full/debug/AndroidManifest.xml:45:13-84

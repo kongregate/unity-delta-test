@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:16:1-47:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:16:1-47:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:16:1-47:12
+	package
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:17:11-55
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:18:5-42
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:18:5-42
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:18:5-42
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:18:15-40
+uses-permission#android.permission.INTERNET
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:24:22-65
+application
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:26:5-46:19
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:29:11-98
+	android:exported
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:34:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/play-services-measurement-8.4.0/AndroidManifest.xml:42:11-82

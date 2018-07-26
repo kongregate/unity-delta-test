@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:4:1-31:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:4:1-31:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:4:1-31:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:4:1-31:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:4:1-31:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:4:1-31:12
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:4:1-31:12
+	package
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:5:5-51
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:7:5-30
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:4:11-69
+	android:versionCode
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:9:5-73
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:9:5-73
+INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:9:5-73
+	android:targetSdkVersion
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:9:41-70
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml
+		INJECTED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:9:15-40
+application
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:14:5-30:19
+meta-data#com.google.android.gms.nearby.connection.SERVICE_ID
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:17:9-18:32
+	android:value
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:18:13-29
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:17:20-86
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:21:9-22:46
+	android:value
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:22:13-43
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:21:20-70
+meta-data#com.google.android.gms.games.unityVersion
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:23:9-24:40
+	android:value
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:23:20-76
+activity#com.google.games.bridge.NativeBridgeActivity
+ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:28:9-29:86
+	android:theme
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from /Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/AndroidManifest.xml:28:19-78

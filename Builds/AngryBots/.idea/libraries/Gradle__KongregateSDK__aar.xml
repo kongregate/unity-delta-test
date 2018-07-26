@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: KongregateSDK:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/KongregateSDK.aar/b30a8b9af38d6c9c3208f4284870f2ee/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"3.0.0","enabled":true,"outputFile":"AngryBots-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.kongregate.android.games.angrybots","split":"","minSdkVersion":"15"}}]

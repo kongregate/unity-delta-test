@@ -1,0 +1,4 @@
+#Wed Jul 25 17:50:40 PDT 2018
+base.0=/Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/build/intermediates/transforms/dexMerger/debug/11
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Kongregate: Banned</title>
+    <style>
+      @font-face {
+        font-family: 'Roboto';
+        src: url('Roboto-Light-webfont.woff') format('woff');
+        font-weight: 300;
+        font-style: normal;
+        }
+      @font-face {
+        font-family: 'Roboto';
+        src: url('Roboto-Bold-webfont.woff') format('woff');
+        font-weight: bold;
+        font-style: normal;
+        }
+      * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        text-rendering: optimizeLegibility;
+        }
+      html,
+      body {
+        height: 100%;
+        }
+      body {
+        background-color: #d5d5d5;
+        }
+      h1 {
+        font: bold 26px/1em 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+        margin-bottom: 25px;
+        }
+      p {
+        font: 300 24px/32px 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+        margin-bottom: 40px;
+        }
+      #container {
+        height: 100%;
+        min-height: 700px;
+        position: relative;
+        }
+      #message {
+        bottom: 410px;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        }
+      #content {
+        margin-top: -85px;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        }
+      #content h1 {
+        margin:0 auto 25px;
+        padding: 0 20px;
+        width: 640px;
+        }
+      #content p {
+        margin:0 auto 40px;
+        padding: 0 20px;
+        width: 640px;
+        }
+      #content a {
+        background-color: #185d80;
+        border-radius: 6px;
+        box-shadow: 1px 2px 0 #0f384c;
+        color: #fff;
+        font: bold 16px/1em 'Roboto', Arial, sans-serif;
+        margin: 0 auto;
+        padding: 12px 18px;
+        text-decoration: none;
+        text-shadow: 1px 1px 0 #0f384c;
+        }
+      #kongbot {
+        background-image: url('kongbot.svg');
+        background-repeat: no-repeat;
+        background-position: center top;
+        bottom: 0;
+        height: 410px;
+        left: 0;
+        min-width: 640px;
+        position: absolute;
+        width: 100%;
+        }
+      @media screen and (max-height: 700px) {
+        #container {
+          background-image: url('kongbot.svg');
+          background-repeat: no-repeat;
+          background-position: center 270px;
+          min-height: 0;
+          min-width: 640px;
+          }
+        #message,
+        #content {
+          bottom: 0;
+          margin: 0;
+          position: relative;
+          top: 0;
+          }
+        #content {
+          padding: 40px 0;
+          }
+        #content p:last-child {
+          margin-bottom: 0;
+          }
+        #kongbot {
+          display: none;
+          }
+        }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div id="message">
+        <div id="content">
+          <h1>You have been banned</h1>
+          <p>You have been signed out of your account due to being banned. Please try again later.</p>
+		  <p><a href="http://www.kongregate.com/pages/banned" target="_blank" title="More Information">More Info</a></p>
+        </div>
+      </div>
+      <div id="kongbot"></div>
+    </div>
+  </body>
+</html>
+

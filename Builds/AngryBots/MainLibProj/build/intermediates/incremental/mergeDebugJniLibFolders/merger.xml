@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/libs"><file name="play-games-plugin-support.jar" path="/Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/libs/play-games-plugin-support.jar"/></source></dataSet><dataSet config="debug"><source path="/Users/minlieu/Documents/GitHub/mobile/unity-sdk-plugin/Builds/AngryBots/MainLibProj/src/debug/jniLibs"/></dataSet></merger>

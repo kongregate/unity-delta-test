@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" package="com.kongregate.android.games.angrybots" android:versionName="3.0.0" android:versionCode="1" android:installLocation="auto">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
+  <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" android:anyDensity="true" />
+  <permission android:name="com.kongregate.permission.ReadSharedData2" android:protectionLevel="signature" />
+  <uses-permission android:name="com.kongregate.permission.ReadSharedData2" />
+  <application android:theme="@style/UnityThemeSelector" android:icon="@drawable/app_icon" android:label="@string/app_name" android:isGame="true" android:banner="@drawable/app_banner">
+    <activity android:label="@string/app_name" android:screenOrientation="reverseLandscape" android:launchMode="singleTask" android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density" android:name="com.kongregate.android.games.angrybots.UnityPlayerActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+        <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+      </intent-filter>
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+    </activity>
+    <provider android:name="com.kongregate.android.api.providers.angrybotsSharedSecretProvider" android:authorities="com.kongregate.android.api.providers.angrybotsSharedSecretProvider" android:multiprocess="true" android:readPermission="com.kongregate.permission.ReadSharedData2" android:exported="true" />
+    <!-- Remove if you are not using Prime[31] in-app billing plugin for android -->
+    <activity android:name="com.prime31.GoogleIABProxyActivity" android:configChanges="orientation">
+    </activity>
+  </application>
+  <uses-feature android:glEsVersion="0x00020000" />
+  <uses-feature android:name="android.hardware.vulkan" android:required="false" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="18" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="18" />
+  <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
+</manifest>

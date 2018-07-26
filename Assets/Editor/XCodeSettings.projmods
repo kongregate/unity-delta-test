@@ -1,0 +1,12 @@
+{
+  "group": "Kongregate",
+  "libs": [],
+  "frameworks": ["AdSupport.framework", "CoreData.framework", "GameKit.framework", "StoreKit.framework", "Security.framework", "CoreTelephony.framework", "CFNetwork.framework", "iAd.framework", "Accounts.framework", "QuartzCore.framework", "UIKit.framework", "MessageUI.framework", "AVFoundation.framework" ],
+  "headerpaths": [],
+  "files": ["KongregateSDK.bundle", "KongregateUnityWrapper.framework", "KongregateSDK.framework", "AdjustSDK.framework", "DeltaDNA.framework"],
+  "embed_binaries": ["DeltaDNA.framework"],
+  "folders": [],
+  "excludes": ["^.*.meta$"],
+  "linker_flags": ["-lZ", "-ObjC"],
+  "compiler_flags": []
+}
