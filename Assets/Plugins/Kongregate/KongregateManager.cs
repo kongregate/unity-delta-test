@@ -69,22 +69,22 @@ namespace Kongregate
 
         /** Production Android KongregateAPI.KONGREGATE_OPTION_DELTA_ENVIRONMENT_KEY */
 		public string androidDeltaLiveEnvironmentKey;
-        
+
         /** Production Android KongregateAPI.KONGREGATE_OPTION_DELTA_COLLECT_URL */
 		public string androidDeltaLiveCollectUrl;
-        
+
         /** Production Android KongregateAPI.KONGREGATE_OPTION_DELTA_ENGAGE_URL */
 		public string androidDeltaLiveEngageUrl;
-        
+
         /** Test Android KongregateAPI.KONGREGATE_OPTION_DELTA_ENVIRONMENT_KEY */
 		public string androidDeltaTestEnvironmentKey;
-        
+
         /** Test Android KongregateAPI.KONGREGATE_OPTION_DELTA_COLLECT_URL */
 		public string androidDeltaTestCollectUrl;
-        
+
         /** Test Android KongregateAPI.KONGREGATE_OPTION_DELTA_ENGAGE_URL */
 		public string androidDeltaTestEngageUrl;
-        
+
 		/** Android KongregateAPI.KONGREGATE_OPTION_ADJUST_APP_TOKEN */
 		public string androidAdjustAppToken;
 
@@ -111,22 +111,22 @@ namespace Kongregate
 
         /** Production iOS KongregateAPI.KONGREGATE_OPTION_DELTA_ENVIRONMENT_KEY */
 		public string iOSDeltaLiveEnvironmentKey;
-        
+
         /** Production iOS KongregateAPI.KONGREGATE_OPTION_DELTA_COLLECT_URL */
 		public string iOSDeltaLiveCollectUrl;
-        
+
         /** Production iOS KongregateAPI.KONGREGATE_OPTION_DELTA_ENGAGE_URL */
 		public string iOSDeltaLiveEngageUrl;
-        
+
         /** Test iOS KongregateAPI.KONGREGATE_OPTION_DELTA_ENVIRONMENT_KEY */
 		public string iOSDeltaTestEnvironmentKey;
-        
+
         /** Test iOS KongregateAPI.KONGREGATE_OPTION_DELTA_COLLECT_URL */
 		public string iOSDeltaTestCollectUrl;
-        
+
         /** Test iOS KongregateAPI.KONGREGATE_OPTION_DELTA_ENGAGE_URL */
 		public string iOSDeltaTestEngageUrl;
-        
+
 		/** iOS KongregateAPI.KONGREGATE_OPTION_ADJUST_APP_TOKEN */
 		public string iOSAdjustAppToken;
 
@@ -159,6 +159,9 @@ namespace Kongregate
 
 		/** Set to true to if your game uses the Guild Chat APIs */
 		public bool guildChatEnabled;
+
+		/** Set to true to let the SDK handle push token collection */
+		public bool autoCollectToken;
 
 		// Setup listeners for corresponding kongregate events
 
@@ -255,9 +258,9 @@ namespace Kongregate
 			#if UNITY_IPHONE
 			KongregateAPI.Settings.SwrveAppId = rcBuild ? iOSSwrveLiveAppId : iOSSwrveTestAppId;
 			KongregateAPI.Settings.SwrveApiKey = rcBuild ? iOSSwrveLiveAPIKey : iOSSwrveTestAPIKey;
-            KongregateAPI.Settings.DeltaEnvironmentKey = rcBuild ? iOSDeltaLiveEnvironmentKey : iOSDeltaTestEnvironmentKey;
-            KongregateAPI.Settings.DeltaCollectUrl = rcBuild ? iOSDeltaLiveCollectUrl : iOSDeltaTestCollectUrl;
-            KongregateAPI.Settings.DeltaEngageUrl = rcBuild ? iOSDeltaLiveEngageUrl : iOSDeltaTestEngageUrl;
+      KongregateAPI.Settings.DeltaEnvironmentKey = rcBuild ? iOSDeltaLiveEnvironmentKey : iOSDeltaTestEnvironmentKey;
+      KongregateAPI.Settings.DeltaCollectUrl = rcBuild ? iOSDeltaLiveCollectUrl : iOSDeltaTestCollectUrl;
+      KongregateAPI.Settings.DeltaEngageUrl = rcBuild ? iOSDeltaLiveEngageUrl : iOSDeltaTestEngageUrl;
 			KongregateAPI.Settings.AdjustAppToken = iOSAdjustAppToken;
 			KongregateAPI.Settings.AdjustEventTokenMap = new Dictionary<string,object>() {
 				{ KongregateAPI.ADJUST_INSTALL, iOSAdjustInstallToken },
@@ -266,9 +269,9 @@ namespace Kongregate
 			#elif UNITY_ANDROID
 			KongregateAPI.Settings.SwrveAppId = rcBuild ? androidSwrveLiveAppId : androidSwrveTestAppId;
 			KongregateAPI.Settings.SwrveApiKey = rcBuild ? androidSwrveLiveAPIKey : androidSwrveTestAPIKey;
-            KongregateAPI.Settings.DeltaEnvironmentKey = rcBuild ? androidDeltaLiveEnvironmentKey : androidDeltaTestEnvironmentKey;
-            KongregateAPI.Settings.DeltaCollectUrl = rcBuild ? androidDeltaLiveCollectUrl : androidDeltaTestCollectUrl;
-            KongregateAPI.Settings.DeltaEngageUrl = rcBuild ? androidDeltaLiveEngageUrl : androidDeltaTestEngageUrl;
+      KongregateAPI.Settings.DeltaEnvironmentKey = rcBuild ? androidDeltaLiveEnvironmentKey : androidDeltaTestEnvironmentKey;
+      KongregateAPI.Settings.DeltaCollectUrl = rcBuild ? androidDeltaLiveCollectUrl : androidDeltaTestCollectUrl;
+      KongregateAPI.Settings.DeltaEngageUrl = rcBuild ? androidDeltaLiveEngageUrl : androidDeltaTestEngageUrl;
 			KongregateAPI.Settings.AdjustAppToken = androidAdjustAppToken;
 			KongregateAPI.Settings.AdjustEventTokenMap = new Dictionary<string,object>() {
 				{ KongregateAPI.ADJUST_INSTALL, androidAdjustInstallToken },

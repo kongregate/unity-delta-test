@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kongregate_dummy_color">#bcbdc2</color>
+    <dimen name="kongregate_dummy_size">64dp</dimen>
+    <item name="resources_package_name_lookup" type="id"/>
+    <style name="KongregateDialogTheme">
+        <!-- Fill the screen -->
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+
+        <!-- No backgrounds, titles or window float -->
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+
+        <item name="android:textColorSecondary">#000000</item>
+    </style>
+</resources>

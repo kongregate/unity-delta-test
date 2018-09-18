@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 730dac78f14dc4c47a57c129f1a323d0
+folderAsset: yes
+timeCreated: 1535604330
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

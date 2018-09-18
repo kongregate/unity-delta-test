@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{8E820275-CCB0-FE50-58DE-FA8E6B3D2E6C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_5;UNITY_5_6;UNITY_5;UNITY_PURCHASING;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;PRIME31_STOREKIT;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Plugins\InAppBillingAndroid\GoogleIAB.cs" />
+     <Compile Include="Assets\Plugins\InAppBillingAndroid\GoogleIABManager.cs" />
+     <Compile Include="Assets\Plugins\InAppBillingAndroid\GooglePurchase.cs" />
+     <Compile Include="Assets\Plugins\InAppBillingAndroid\GoogleSkuInfo.cs" />
+     <Compile Include="Assets\Plugins\InAppBillingAndroid\demo\GoogleIABEventListener.cs" />
+     <Compile Include="Assets\Plugins\InAppBillingAndroid\demo\IABUIManager.cs" />
+     <Compile Include="Assets\Plugins\Kongregate\KongregateManager.cs" />
+     <Compile Include="Assets\Plugins\Kongregate\demo\KongDemoHelper.cs" />
+     <Compile Include="Assets\Plugins\Kongregate\demo\KongPanelDemo.cs" />
+     <Compile Include="Assets\Plugins\Kongregate\demo\KongPurchasingDemo.cs" />
+     <Compile Include="Assets\Plugins\Kongregate\demo\KongStoreKitDemo.cs" />
+     <Compile Include="Assets\Plugins\Kongregate\demo\KongSwrveAnalyticsDemo.cs" />
+     <Compile Include="Assets\Plugins\Kongregate\demo\KongUserStatsInventoryDemo.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\CallbackDispatcher.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\CallbackIdentity.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\InteropHelp.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\Packsize.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\Steam.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\NativeMethods.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\SteamCallbacks.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\SteamConstants.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\SteamEnums.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\SteamStructs.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamapplist.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamapps.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamclient.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamcontroller.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamfriends.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamgameserver.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamgameserverhttp.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamgameserverinventory.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamgameservernetworking.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamgameserverstats.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamgameserverugc.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamgameserverutils.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamhtmlsurface.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamhttp.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteaminventory.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteammatchmaking.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteammusic.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteammusicremote.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamnetworking.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamremotestorage.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamscreenshots.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamugc.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamunifiedmessages.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamuser.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamuserstats.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamutils.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\autogen\isteamvideo.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\MatchmakingTypes\gameserveritem_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\MatchmakingTypes\servernetadr_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamClient\HSteamPipe.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamClient\HSteamUser.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamClient\SteamAPIWarningMessageHook_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamClient\SteamAPI_CheckCallbackRegistered_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamClientPublic\CGameID.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamClientPublic\CSteamID.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamClientPublic\HAuthTicket.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamController\ControllerActionSetHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamController\ControllerAnalogActionHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamController\ControllerDigitalActionHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamController\ControllerHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamFriends\FriendsGroupID_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamHTMLSurface\HHTMLBrowser.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamHTTP\HTTPCookieContainerHandle.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamHTTP\HTTPRequestHandle.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamInventory\SteamInventoryResult_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamInventory\SteamItemDef_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamInventory\SteamItemInstanceID_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamMatchmaking\HServerListRequest.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamMatchmaking\HServerQuery.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamNetworking\SNetListenSocket_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamNetworking\SNetSocket_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamRemoteStorage\PublishedFileId_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamRemoteStorage\PublishedFileUpdateHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamRemoteStorage\UGCFileWriteStreamHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamRemoteStorage\UGCHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamScreenshots\ScreenshotHandle.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamTypes\AccountID_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamTypes\AppId_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamTypes\DepotId_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamTypes\ManifestId_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamTypes\SteamAPICall_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamUGC\UGCQueryHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamUGC\UGCUpdateHandle_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamUnifiedMessages\ClientUnifiedMessageHandle.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamUserStats\SteamLeaderboardEntries_t.cs" />
+     <Compile Include="Assets\Plugins\Steamworks.NET\types\SteamUserStats\SteamLeaderboard_t.cs" />
+     <Compile Include="Assets\Plugins\StoreKit\StoreKitBinding.cs" />
+     <Compile Include="Assets\Plugins\StoreKit\StoreKitDownload.cs" />
+     <Compile Include="Assets\Plugins\StoreKit\StoreKitManager.cs" />
+     <Compile Include="Assets\Plugins\StoreKit\StoreKitProduct.cs" />
+     <Compile Include="Assets\Plugins\StoreKit\StoreKitTransaction.cs" />
+     <Compile Include="Assets\Plugins\StoreKit\demo\StoreKitEventListener.cs" />
+     <Compile Include="Assets\Plugins\StoreKit\demo\StoreKitGUIManager.cs" />
+     <Compile Include="Assets\Plugins\UnityPurchasing\script\ComboBox.cs" />
+     <Compile Include="Assets\Plugins\UnityPurchasing\script\IAPDemo.cs" />
+     <Compile Include="Assets\Plugins\UnityPurchasing\script\UnibillDemo.cs" />
+     <None Include="Assets\GooglePlayGames\Editor\Podfile.txt" />
+     <None Include="Assets\Plugins\Kongregate\link.xml" />
+     <None Include="Assets\Plugins\InAppBillingAndroid\Manifest.xml" />
+     <None Include="Assets\GooglePlayGames\Editor\template-GameInfo.txt" />
+     <None Include="Assets\GooglePlayGames\Editor\template-AndroidManifest.txt" />
+     <None Include="Assets\Plugins\Android\play-services-measurement-8.4.0\proguard.txt" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\DeltaDNA\Ads\Editor\Dependencies.xml" />
+     <None Include="Assets\Plugins\Android\deltadna-sdk-unity-notifications\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\deltadna-sdk-unity-notifications\res\values\values.xml" />
+     <None Include="Assets\Plugins\Android\MainLibProj\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\play-services-measurement-8.4.0\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Steamworks.NET\redist\steam_appid.txt" />
+     <None Include="Assets\GooglePlayGames\Editor\template-Constants.txt" />
+     <None Include="Assets\Plugins\Android\play-services-measurement-8.4.0\R.txt" />
+     <None Include="Assets\DeltaDNA\Editor\Android\Dependencies.xml" />
+     <None Include="Assets\DeltaDNA\Resources\iso_4217.xml" />
+ <Reference Include="Facebook.Unity.Settings">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="P31RestKit">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Assets/Plugins/P31RestKit.dll</HintPath>
+ </Reference>
+ <Reference Include="Common">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Assets/Plugins/UnityPurchasing/Bin/Common.dll</HintPath>
+ </Reference>
+ <Reference Include="Security">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Assets/Plugins/UnityPurchasing/Bin/Security.dll</HintPath>
+ </Reference>
+ <Reference Include="Editor">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Stores">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ </Reference>
+ <Reference Include="Apple">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ </Reference>
+ <Reference Include="winrt">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ </Reference>
+ <Reference Include="KongregateAPI">
+ <HintPath>/Users/jordanferber/Documents/KongRepos/unity-delta-test/Assets/Plugins/Kongregate/KongregateAPI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

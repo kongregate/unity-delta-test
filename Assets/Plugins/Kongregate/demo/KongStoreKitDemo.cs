@@ -9,10 +9,8 @@ namespace Kongregate
 {
   public class KongStoreKitDemo : MonoBehaviour
   {
-#if PRIME31_STOREKIT
-
     public string _GooglePublicKey;
-
+    #if PRIME31_STOREKIT
     bool mRecentPurchase;
     bool mPurchaseReady;
     Dictionary<string,object> mTransactionsInVerification;
@@ -54,13 +52,13 @@ namespace Kongregate
     void ConfigureStoreKitManager() {
 
       //queue of transactions needing to be verified
-      mTransactionsInVerification = new Dictionary<string,object> (); 
+      mTransactionsInVerification = new Dictionary<string,object> ();
 
       #if UNITY_IPHONE
 
       //don't autoconfirm transactions until we have verified the receipt
       StoreKitBinding.enableHighDetailLogs(true);
-      StoreKitManager.autoConfirmTransactions=false; 
+      StoreKitManager.autoConfirmTransactions=false;
       StoreKitBinding.setShouldSendTransactionUpdateEvents(true);
 
       StoreKitManager.productListReceivedEvent += allProducts => {
@@ -278,4 +276,3 @@ namespace Kongregate
 
   }
 }
-
